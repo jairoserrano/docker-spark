@@ -1,4 +1,6 @@
-FROM alpine:3.10
+#FROM alpine:3.10
+FROM python:3.10.0-alpine
+
 
 LABEL maintainer="Gezim Sejdiu <g.sejdiu@gmail.com>, Giannis Mouchakis <gmouchakis@gmail.com>"
 
